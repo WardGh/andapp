@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("WARD-3");
 		int a;
 		int b= 4;
+		System.out.println("WARD-4");
 	}
 
 }
